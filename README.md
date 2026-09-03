@@ -8,6 +8,10 @@ technical products are ready to ship. My projects show how I turn delivery and
 product problems into working, reviewable systems while remaining accountable
 for scope, trade-offs, verification, and release readiness.
 
+Professionally, I coordinate delivery across four feature teams and production
+releases; my GitHub projects are public proof of work around release management,
+product decisions, and technical delivery.
+
 ## Selected projects
 
 ### [AI Release Intelligence](https://github.com/floppy522/ai-release-intelligence)
@@ -19,8 +23,6 @@ evidence-linked readiness assessment.
 
 **My role:** problem framing, MVP scope, product and technical decisions,
 acceptance criteria, release policy, verification, and release management.
-Implementation was supported by AI coding agents through specification-driven,
-test-driven, and review-gated workflows.
 
 [Product case](https://github.com/floppy522/ai-release-intelligence/blob/main/docs/portfolio/product-case.md)
 · [Try in five minutes](https://github.com/floppy522/ai-release-intelligence#try-it-in-five-minutes)
@@ -33,19 +35,26 @@ capture and a React dashboard for review and correction. The case demonstrates
 JTBD framing, MVP prioritization, explicit trade-offs, privacy constraints, and
 delivery verification.
 
-**My role:** product problem, requirements, prioritization, technical product
-decisions, acceptance criteria, release process, and verification. AI coding
-agents supported implementation; I remained accountable for scope, trade-offs,
-and production readiness.
+**My role:** product problem framing, requirements, prioritization, technical
+product decisions, acceptance criteria, verification, and release management.
 
 [Repository](https://github.com/floppy522/moneyflow-personal-finance)
 · [Product case](https://github.com/floppy522/moneyflow-personal-finance/blob/main/docs/product-case.md)
 
+**AI-assisted development:** Both projects use AI coding agents for
+implementation. I own specifications, scope, product and technical decisions,
+acceptance criteria, verification, and release readiness.
+
 ## Areas I work with
 
 Delivery Management · Release Management · SDLC · CI/CD · AI/ML Systems ·
-Risk & Dependency Management · Product Discovery
+Risk & Dependency Management · Product Framing & Prioritization
 
 ## Beyond GitHub
 
 I teach IT Project Management at HSE University.
+
+## Contact
+
+Telegram: [@malovval](https://t.me/malovval)  
+Email: [malovvu03@gmail.com](mailto:malovvu03@gmail.com)
