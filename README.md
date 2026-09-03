@@ -26,7 +26,7 @@ test-driven, and review-gated workflows.
 · [Try in five minutes](https://github.com/floppy522/ai-release-intelligence#try-it-in-five-minutes)
 · [Release v0.1.0](https://github.com/floppy522/ai-release-intelligence/releases/tag/v0.1.0)
 
-### [MoneyFlow](https://github.com/floppy522/Finance-project)
+### [MoneyFlow](https://github.com/floppy522/moneyflow-personal-finance)
 
 A privacy-first personal finance product that uses Telegram for low-friction
 capture and a React dashboard for review and correction. The case demonstrates
@@ -38,8 +38,8 @@ decisions, acceptance criteria, release process, and verification. AI coding
 agents supported implementation; I remained accountable for scope, trade-offs,
 and production readiness.
 
-[Repository](https://github.com/floppy522/Finance-project)
-· [Product case](https://github.com/floppy522/Finance-project/blob/main/docs/product-case.md)
+[Repository](https://github.com/floppy522/moneyflow-personal-finance)
+· [Product case](https://github.com/floppy522/moneyflow-personal-finance/blob/main/docs/product-case.md)
 
 ## Areas I work with
 
