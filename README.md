@@ -5,8 +5,8 @@
 I work where project leadership meets software delivery: shaping requirements,
 managing scope and dependencies, coordinating releases, and verifying that
 technical products are ready to ship. My projects show how I turn delivery and
-product problems into working, reviewable systems without positioning myself
-as a full-time software engineer.
+product problems into working, reviewable systems while remaining accountable
+for scope, trade-offs, verification, and release readiness.
 
 ## Selected projects
 
