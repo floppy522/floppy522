@@ -9,7 +9,7 @@ product problems into working, reviewable systems while remaining accountable
 for scope, trade-offs, verification, and release readiness.
 
 Professionally, I coordinate delivery across four feature teams (~40 people)
-and weekly production releases. My GitHub projects are public proof of work
+and production releases. My GitHub projects are public proof of work
 around release management, delivery flow, AI-enabled decision support, and
 technical product delivery.
 
