@@ -8,11 +8,12 @@ technical products are ready to ship. My projects show how I turn delivery and
 product problems into working, reviewable systems while remaining accountable
 for scope, trade-offs, verification, and release readiness.
 
-Professionally, I coordinate delivery across four feature teams and production
-releases; my GitHub projects are public proof of work around release management,
-delivery flow, product decisions, and technical delivery.
+Professionally, I coordinate delivery across four feature teams (~40 people)
+and weekly production releases. My GitHub projects are public proof of work
+around release management, delivery flow, AI-enabled decision support, and
+technical product delivery.
 
-## Selected projects
+## Flagship projects
 
 ### [AI Release Intelligence](https://github.com/floppy522/ai-release-intelligence)
 
@@ -30,10 +31,10 @@ acceptance criteria, release policy, verification, and release management.
 
 ### [AI Delivery Intelligence](https://github.com/floppy522/ai-delivery-intelligence)
 
-Evidence-grounded decision support for continuous Kanban delivery health and
-management attention. It compares Jira, Kaiten, or demo snapshots, detects flow
-changes deterministically, retrieves delivery policies, and recommends bounded
-management actions with evidence.
+An evidence-grounded AI agent for continuous Kanban delivery health and
+management attention. It compares Jira and Kaiten snapshots over time, detects
+flow changes, blockers, dependencies, and risks, retrieves delivery policies
+through RAG, and recommends bounded management actions with traceable evidence.
 
 **My role:** problem framing, MVP scope, delivery-domain modeling,
 source-adapter boundaries, agent and tool contracts, RAG architecture decisions,
@@ -42,6 +43,8 @@ evaluation criteria, acceptance criteria, verification, and release management.
 [Product case](https://github.com/floppy522/ai-delivery-intelligence/blob/main/docs/product-case.md)
 · [Credential-free demo](https://github.com/floppy522/ai-delivery-intelligence#run-it)
 · [Release v0.1.0](https://github.com/floppy522/ai-delivery-intelligence/releases/tag/v0.1.0)
+
+## Supporting project
 
 ### [MoneyFlow](https://github.com/floppy522/moneyflow-personal-finance)
 
