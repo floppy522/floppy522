@@ -10,7 +10,7 @@ for scope, trade-offs, verification, and release readiness.
 
 Professionally, I coordinate delivery across four feature teams and production
 releases; my GitHub projects are public proof of work around release management,
-product decisions, and technical delivery.
+delivery flow, product decisions, and technical delivery.
 
 ## Selected projects
 
@@ -28,6 +28,21 @@ acceptance criteria, release policy, verification, and release management.
 · [Try in five minutes](https://github.com/floppy522/ai-release-intelligence#try-it-in-five-minutes)
 · [Release v0.1.0](https://github.com/floppy522/ai-release-intelligence/releases/tag/v0.1.0)
 
+### [AI Delivery Intelligence](https://github.com/floppy522/ai-delivery-intelligence)
+
+Evidence-grounded decision support for continuous Kanban delivery health and
+management attention. It compares Jira, Kaiten, or demo snapshots, detects flow
+changes deterministically, retrieves delivery policies, and recommends bounded
+management actions with evidence.
+
+**My role:** problem framing, MVP scope, delivery-domain modeling,
+source-adapter boundaries, agent and tool contracts, RAG architecture decisions,
+evaluation criteria, acceptance criteria, verification, and release management.
+
+[Product case](https://github.com/floppy522/ai-delivery-intelligence/blob/main/docs/product-case.md)
+· [Credential-free demo](https://github.com/floppy522/ai-delivery-intelligence#run-it)
+· [Release v0.1.0](https://github.com/floppy522/ai-delivery-intelligence/releases/tag/v0.1.0)
+
 ### [MoneyFlow](https://github.com/floppy522/moneyflow-personal-finance)
 
 A privacy-first personal finance product that uses Telegram for low-friction
@@ -41,14 +56,14 @@ product decisions, acceptance criteria, verification, and release management.
 [Repository](https://github.com/floppy522/moneyflow-personal-finance)
 · [Product case](https://github.com/floppy522/moneyflow-personal-finance/blob/main/docs/product-case.md)
 
-**AI-assisted development:** Both projects use AI coding agents for
-implementation. I own specifications, scope, product and technical decisions,
+**AI-assisted development:** These projects use AI coding agents for
+implementation. I own specifications, scope, product and architecture decisions,
 acceptance criteria, verification, and release readiness.
 
 ## Areas I work with
 
-Delivery Management · Release Management · SDLC · CI/CD · AI/ML Systems ·
-Risk & Dependency Management · Product Framing & Prioritization
+Delivery Management · Kanban / Flow Management · Release Management ·
+Risk & Dependency Management · AI/ML Systems · LLM · RAG · AI Agents · SDLC · CI/CD
 
 ## Beyond GitHub
 
